@@ -1,0 +1,13 @@
+{
+  "name" : "root",
+  "text" : null,
+  "child" : [ {
+    "name" : "element1",
+    "text" : null,
+    "child" : [ {
+      "name" : "element2",
+      "text" : "WRONG!",
+      "child" : [ ]
+    } ]
+  } ]
+}

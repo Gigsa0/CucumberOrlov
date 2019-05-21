@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Step.CucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.282 sec <<< FAILURE!
+Проверка файла(Проверка JSON)  Time elapsed: 0.015 sec  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "aaa" is undefined
+
